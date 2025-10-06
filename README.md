@@ -40,6 +40,7 @@ You can create todos with multiple checkpoints, set start and end times, and tra
 ## 📂 Project Structure
 
 mern-todo-app/
+```
 │
 ├── backend/
 │ ├── models/
@@ -58,7 +59,7 @@ mern-todo-app/
 │ ├── package.json
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation Guide
